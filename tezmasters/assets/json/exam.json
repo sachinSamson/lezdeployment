@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "id": "1000",
+      "collageName": "Bharth University",
+      "examDate": "12-12-2020",
+      "examAvg": 87,
+      "conductedBy": "Ram Kumar",
+      "students": 100,
+      "place": "Tambaram",
+      "status": 1
+    },
+    {
+      "id": "1001",
+      "collageName": "Anna University",
+      "examDate": "20-12-2020",
+      "passAvg": 55,
+      "conductedBy": "Babu",
+      "students": 250,
+      "place": "Velachery",
+      "status": 1
+    },
+    {
+      "id": "1002",
+      "collageName": "Jerusalem College of  Engineering",
+      "examDate": "18-12-2020",
+      "passAvg": 75,
+      "conductedBy": "Uthey",
+      "students": 47,
+      "place": "Pallikaranai",
+      "status": 0
+    },
+    {
+      "id": "1003",
+      "collageName": "SRM Valliammai Engineering College",
+      "examDate": "21-12-2020",
+      "passAvg": 98,
+      "conductedBy": "Ganesh",
+      "students": 800,
+      "place": "Kattankulathur",
+      "status": 2
+    },
+    {
+      "id": "1004",
+      "collageName": "Alpha College of Engineering",
+      "examDate": "24-12-2020",
+      "passAvg": 78,
+      "conductedBy": "Deepak",
+      "students": 450,
+      "place": "Poonamallee",
+      "status": 1
+    },
+    {
+      "id": "1005",
+      "collageName": "Madras Institute of Technology",
+      "examDate": "08-12-2020",
+      "passAvg": 65,
+      "conductedBy": "Tharun",
+      "students": 178,
+      "place": "Chrompet",
+      "status": 1
+    },
+    {
+      "id": "1006",
+      "collageName": "VELS School of Maritime",
+      "examDate": "11-12-2020",
+      "passAvg": 85,
+      "conductedBy": "Hari",
+      "students": 658,
+      "place": "Thalambur",
+      "status": 2
+    },
+    {
+      "id": "1007",
+      "collageName": "Meenakshi University",
+      "examDate": "11-12-2020",
+      "passAvg": 64,
+      "conductedBy": "Ravi",
+      "students": 245,
+      "place": "Chikkarayapuram",
+      "status": 0
+    },
+    {
+      "id": "1008",
+      "collageName": "AIT Karaikudi",
+      "examDate": "28-12-2020",
+      "passAvg": 45,
+      "conductedBy": "Lal kumar",
+      "students": 585,
+      "place": "Arasur",
+      "status": 1
+    },
+    {
+      "id": "1009",
+      "collageName": "SRR Engineering College",
+      "examDate": "04-12-2020",
+      "passAvg": 72,
+      "conductedBy": "Kavi",
+      "students": 875,
+      "place": "Madurai",
+      "status": 2
+    },
+    {
+      "id": "1010",
+      "collageName": "SRM Valliammai Engineering College",
+      "examDate": "02-12-2020",
+      "passAvg": 51,
+      "conductedBy": "jackson",
+      "students": 685,
+      "place": "Kattankulathur",
+      "status": 0
+    },
+    {
+      "id": "1011",
+      "collageName": "Saveetha University",
+      "examDate": "04-12-2020",
+      "passAvg": 72,
+      "conductedBy": "Papu",
+      "students": 875,
+      "place": "Madurai",
+      "status": 2
+    },
+    {
+      "id": "1012",
+      "collageName": "Anna University",
+      "examDate": "24-12-2020",
+      "passAvg": 55,
+      "conductedBy": "TamilArasan",
+      "students": 782,
+      "place": "Chrompet",
+      "status": 0
+    },
+    {
+      "id": "1013",
+      "collageName": "Jaya Engineering College",
+      "examDate": "11-12-2020",
+      "passAvg": 85,
+      "conductedBy": "Hariharan",
+      "students": 985,
+      "place": "Thiruvallur",
+      "status": 2
+    },
+    {
+      "id": "1014",
+      "collageName": "KCG Enginerring Of College",
+      "examDate": "22-12-2020",
+      "passAvg": 83,
+      "conductedBy": "Yamini",
+      "students": 582,
+      "place": "Perungudi",
+      "status": 1
+    }
+  ]
+}
