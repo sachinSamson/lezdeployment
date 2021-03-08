@@ -261,8 +261,6 @@ primeng/progressbar
 
 primeng/table
 
-primeng/tabview
-
 primeng/toast
 
 primeng/tristatecheckbox
