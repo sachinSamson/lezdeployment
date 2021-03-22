@@ -1,0 +1,162 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "Tez_Q1",
+			"name": "Bacic level",
+			"category": "QA--Quantitative Aptitude",
+			"subcategory": "QAPL--Profit and loss",
+			"createdBy": "Ram Kumar",
+			"createdDate": "12-12-2020",
+			"expirydDate": "14-12-2020",
+			"status": 1
+
+		},
+		{
+			"id": "1001",
+			"code": "Tez_Q2",
+			"name": "Anna University",
+			"category": "V--Verbal Ability",
+      "subcategory": "VG--Grammar Concepts",
+      "createdBy": "Arjun",
+      "createdDate": "15-12-2020",
+      "expirydDate": "17-12-2020",
+      "status": 0
+
+    },
+		{
+			"id": "1002",
+			"code": "Tez_Q3",
+			"name": "Bharth University",
+			"category": "LR--Logical Reasoning",
+      "subcategory": "LRA--Analogies",
+      "createdBy": "Babu",
+      "createdDate": "19-12-2020",
+      "expirydDate": "21-12-2020",
+      "status": 0
+
+    },
+		{
+			"id": "1003",
+			"code": "Tez_Q4",
+			"name": "SSN College of Eng",
+			"category": "DS--Data Structures",
+      "subcategory": "DSOPPS--oops concept",
+      "createdBy": "Ram Kumar",
+      "createdDate": "20-12-2020",
+      "expirydDate": "21-12-2020",
+      "status": 1
+
+    },
+		{
+			"id": "1004",
+			"code": "Tez_Q5",
+			"name": "SRR Engineering College",
+			"category": "CP--C Programming",
+      "subcategory": "CPVC--variables and constant",
+      "createdBy": "Tiru",
+      "createdDate": "22-12-2020",
+      "expirydDate": "21-12-2020",
+      "status": 1
+
+    },
+		{
+			"id": "1005",
+			"code": "Tez_Q6",
+			"name": "Vellammal Engineering College",
+			"description": "Product Description",
+			"category": "C++P--C++ Programming",
+      "subcategory": "C++PC--Constuctor",
+      "createdBy": "Ram kumar",
+      "createdDate": "27-12-2020",
+      "expirydDate": "81-12-2020",
+      "status": 1
+
+    },
+		{
+			"id": "1006",
+			"code": "Tez_Q7",
+			"name": "Rajalakshmi Engineering College",
+			"description": "Product Description",
+			"category": "BC--Basic Computers",
+      "subcategory": "BCH--hardwares",
+      "createdBy": "Uthay",
+      "createdDate": "25-12-2020",
+      "expirydDate": "26-12-2020",
+      "status": 1
+
+    },
+		{
+			"id": "1007",
+			"code": "Tez_Q8",
+			"name": "SRR Engineering College",
+			"category": "ST--Software Technology",
+      "subcategory": "STWD--Web design",
+      "createdBy": "Fazil",
+      "createdDate": "26-12-2020",
+      "expirydDate": "27-12-2020",
+      "status": 1
+    },
+		{
+			"id": "1008",
+			"code": "Tez_Q9",
+			"name": "SRM Engineering College",
+			"description": "Product Description",
+      "category": "JP--Java Programming",
+      "subcategory": "JPOOPS-oops concept",
+      "createdBy": "Babu",
+      "createdDate": "22-12-2020",
+      "expirydDate": "23-12-2020",
+      "status": 0
+
+    },
+		{
+			"id": "1009",
+			"code": "Tez_Q10",
+			"name": "SLAEC Chennai",
+			"category": "JP--Java Programming",
+      "subcategory": "JPOOPS--oops concept",
+      "createdBy": "Jack",
+      "createdDate": "23-12-2020",
+      "expirydDate": "25-12-2020",
+      "status": 1
+
+    },
+    {
+      "id": "1010",
+      "code": "Tez_Q11",
+      "name": "Poly icon college",
+      "category": "Net Diagrams",
+      "subcategory": "oops concept",
+      "createdBy": "Balu",
+      "createdDate": "10-12-2020",
+      "expirydDate": "25-12-2020",
+      "status": 1
+
+    },
+    {
+      "id": "1009",
+      "code": "Tez_Q10",
+      "name": "SRM Engineering College",
+      "category": "Java Programming",
+      "subcategory": "oops concept",
+      "createdBy": "Jack",
+      "createdDate": "23-12-2020",
+      "expirydDate": "25-12-2020",
+      "status": 1
+
+    },
+    {
+      "id": "1009",
+      "code": "Tez_Q10",
+      "name": "Rajalakshmi Engineering College",
+      "category": "Java Programming",
+      "subcategory": "oops concept",
+      "createdBy": "Jack",
+      "createdDate": "23-12-2020",
+      "expirydDate": "25-12-2020",
+      "status": 1
+
+    }
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"name": "Prof Kumar MBA",
+			"mobile": "044 5869 5585",
+			"email": "kumarf@kumar.com",
+			"role": "Sub Admin",
+			"status": 1
+		},
+		{
+			"id": "1001",
+      "name": "Prof Tirumathi ME",
+      "mobile": "044 5869 5585",
+      "email": "tirumathi@gmail.com",
+      "role": "Sub Admin",
+      "status": 1
+
+    },
+		{
+			"id": "1002",
+      "name": "Prof Dinesh kumar ME",
+      "mobile": "044 5869 5585",
+      "email": "dinesh867@ymail.com",
+      "role": "Test Coordinator",
+      "status": 0
+
+    },
+		{
+			"id": "1003",
+      "name": "Prof Yamini BE",
+      "mobile": "044 5869 5585",
+      "email": "yamini98@gmail.com",
+      "role": "Test Coordinator",
+      "status": 1
+    },
+    {
+      "id": "1004",
+      "name": "Prof Vimala BABL",
+      "mobile": "044 2782 8782",
+      "email": "vimala98@gmail.com",
+      "role": "Test Coordinator",
+      "status": 1
+    },
+    {
+      "id": "1005",
+      "name": "Prof Karthika BE",
+      "mobile": "044 5869 5585",
+      "email": "karthiga009@gmail.com",
+      "role": "Admin",
+      "status": 1
+    },
+    {
+      "id": "1006",
+      "name": "Prof Mala IT",
+      "mobile": "044 5897 2425",
+      "email": "mala@ymail.com",
+      "role": "Sub Admin",
+      "status": 1
+    },
+    {
+      "id": "1007",
+      "name": "Prof Aruna JE BSNL",
+      "mobile": "044 7421 9785",
+      "email": "aruna76@gmail.com",
+      "role": "Accounts",
+      "status": 0
+    },
+    {
+      "id": "1008",
+      "name": "Prof Vani ME",
+      "mobile": "044 9878 5585",
+      "email": "vani989@gmail.com",
+      "role": "Accounts",
+      "status": 0
+    },
+    {
+      "id": "1009",
+      "name": "Prof Ram Kumar BE",
+      "mobile": "044 8754 2526",
+      "email": "ramkk@ymail.com",
+      "role": "Test Coordinator",
+      "status": 1
+    },
+    {
+      "id": "1010",
+      "name": "Prof Siva Guru BE",
+      "mobile": "044 8565 5855",
+      "email": "sivaguruh9@gmail.com",
+      "role": "Sub Admin",
+      "status": 1
+    }
+
+	]
+}
